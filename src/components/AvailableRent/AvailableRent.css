@@ -1,0 +1,38 @@
+.Main{
+    display: flex;
+}
+.Btn{
+    display: flex;
+    margin-left: -120px;
+}
+.AvailableRent{
+    display: flex;
+    grid-gap: 80px;
+    width: 500px;
+    margin-left: 20px;
+    background-color: whitesmoke;
+    
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width: 1px;
+    border-radius: 4px;
+    border-style: solid;
+    }
+.btn3{
+    cursor: pointer;
+    background-color: blue;
+    max-height: 20px;
+    margin-top: 12px;
+    display: table-cell;
+    vertical-align: middle
+}
+.btn4{
+    cursor: pointer;
+    background-color: red;
+    max-height: 20px;
+    margin-top: 12px;
+    display: table-cell;
+    vertical-align: middle;
+}
+

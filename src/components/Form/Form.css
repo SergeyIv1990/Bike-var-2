@@ -1,0 +1,54 @@
+.Main3{
+    display: flex;
+}
+.Btn3{
+    display: flex;
+    margin-left: -115px;
+}
+.wrapper{
+    width: 500px;
+    margin-left: 20px;
+    background-color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width: 1px;
+    border-radius: 4px;
+    border-style: solid;
+}
+.wrapperTitle{
+    margin-left: 20px;
+    font-size: 18px; 
+}
+
+.btn2{
+    cursor: pointer;
+    max-height: 30px;
+    margin-top: 32px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: green;
+}
+
+.form{
+    position: relative;
+    
+}
+.textFild{
+
+    height: 30px;
+    width: 120px;
+}
+.textFild2{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 120px;
+    height: 30px;
+    width: 120px;
+}
+.typeBike{
+    position: absolute;
+    height: 35px;
+    width: 120px;
+}
+

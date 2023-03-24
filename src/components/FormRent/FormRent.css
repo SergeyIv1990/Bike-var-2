@@ -1,0 +1,27 @@
+.Main2{
+    display: flex;
+}
+.Btn2{
+    display: flex;
+    margin-left: -108px;
+}
+
+.wrapperFormRent{
+    width: 500px;
+    margin-left: 20px;
+    background-color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width: 1px;
+    border-radius: 4px;
+    border-style: solid;
+    }
+.btn{
+    max-height: 20px;
+    margin-top: 12px;
+    display: table-cell;
+    vertical-align: middle;
+    cursor: pointer;
+    background-color: red;
+}
