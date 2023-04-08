@@ -28,7 +28,7 @@ const Form =({addPostNew}) => {
             <div className="Main3">
                 <div className="wrapper">
                     <form>
-                        <div>Bike name &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Bike type &ensp;&ensp;&ensp;&ensp;&ensp;Rent prise</div>
+                        <div>Bike name &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Bike type &ensp;&ensp;&ensp;Rent prise(cost per hour)</div>
                         <textarea className="textFild" ref={newPostElement}></textarea>
 
                         <select className="typeBike" value={value} onChange={event => setValue(event.target.value)}>

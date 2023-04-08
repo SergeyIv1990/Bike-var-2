@@ -1,6 +1,7 @@
 
 import AvailableRent from "../AvailableRent/AvailableRent";
 
+
 const Available =({availableData, cutPost, deleteBike,}) => {
     return(
         <div>
@@ -10,6 +11,7 @@ const Available =({availableData, cutPost, deleteBike,}) => {
                     deleteBike={deleteBike}/>
                 )))}
             </div>
+
         </div>
     );
 }

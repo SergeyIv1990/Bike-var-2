@@ -1,0 +1,13 @@
+{
+  "rentData":[
+  {"id":3, "name": "Superfast bicycle", "type":"custom", "prise":10, "realTime":1, "realPrise":10},
+  {"id":4, "name": "Superfast bicycle2", "type":"custom", "prise":10, "realTime":1, "realPrise":10},
+  {"id":1, "name": "Superfast bicycle3", "type":"custom", "prise":10, "realTime":1, "realPrise":10},
+  {"id":2, "name": "Superfast bicycle4", "type":"custom", "prise":10, "realTime":1, "realPrise":10}
+  ],
+  "availableData":[
+  {"id":7, "name": "Bicycle 001", "type":"custom", "prise":10, "realTime":1, "realPrise":10},
+  {"id":8, "name": "Bicycle 002", "type":"custom", "prise":10, "realTime":1, "realPrise":10},
+  {"id":9, "name": "Bicycle 003", "type":"custom", "prise":10, "realTime":1, "realPrise":10}
+  ]
+}
